@@ -5,3 +5,4 @@ git branch => branch lar royxati
 git checkout -b {{BRANCH}} => yangi branch
 git checkout {{BRANCH}} => branch almashtirish
 git pull origin master
+git add . => barch tanlash
